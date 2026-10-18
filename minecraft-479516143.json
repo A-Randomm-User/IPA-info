@@ -878,14 +878,14 @@
     "version": "1.16.40",
     "id": 837605700,
     "requiredOS": "9.0",
-    "lipo": "armv64",
+    "lipo": "arm64",
     "category": "1.16.x"
     },
     {
     "version": "1.16.50",
     "id": 837826052,
     "requiredOS": "9.0",
-    "lipo": "armv64",
+    "lipo": "armm64",
     "category": "1.16.x"
     },
     {
