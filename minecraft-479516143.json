@@ -871,7 +871,7 @@
     "version": "1.16.20",
     "id": 836984622,
     "requiredOS": "9.0",
-    "lipo": "armv64",
+    "lipo": "arm64",
     "category": "1.16.x"
     },
     {
