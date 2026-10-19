@@ -1,0 +1,44 @@
+[
+    {
+        "version": "2.7",
+        "id": 812980784,
+        "requiredOS": "6.0",
+        "lipo": "armv7_arm64",
+        "category": "2.7"
+    },
+    {
+        "version": "2.7.1",
+        "id": 814386406,
+        "requiredOS": "6.0",
+        "lipo": "armv7_arm64",
+        "category": "2.7"
+    },
+    {
+        "version": "2.7.1",
+        "id": 814409639,
+        "requiredOS": "6.0",
+        "lipo": "armv7_arm64",
+        "category": "2.7"
+    },
+    {
+        "version": "2.7.1",
+        "id": 814549376,
+        "requiredOS": "6.0",
+        "lipo": "armv7_arm64",
+        "category": "2.7"
+    },
+    {
+        "version": "2.7.2",
+        "id": 820094493,
+        "requiredOS": "6.0",
+        "lipo": "armv7_arm64",
+        "category": "2.7"
+    },
+    {
+        "version": "3.10.3",
+        "id": 821639062,
+        "requiredOS": "8.0",
+        "lipo": "armv7_arm64",
+        "category": "3.10"
+    }
+]
