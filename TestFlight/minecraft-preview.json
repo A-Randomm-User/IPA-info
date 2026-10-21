@@ -226,35 +226,35 @@
     {
         "version": "1.26.60.27",
         "id": 0,
-        "requiredOS": "13.0",
+        "requiredOS": "14.0",
         "lipo": "arm64",
         "category": "1.26.60.x"
     },
     {
         "version": "1.26.60.28",
         "id": 0,
-        "requiredOS": "13.0",
+        "requiredOS": "14.0",
         "lipo": "arm64",
         "category": "1.26.60.x"
     },
     {
         "version": "1.26.60.29",
         "id": 0,
-        "requiredOS": "13.0",
+        "requiredOS": "14.0",
         "lipo": "arm64",
         "category": "1.26.60.x"
     },
     {
         "version": "1.26.60.30",
         "id": 0,
-        "requiredOS": "13.0",
+        "requiredOS": "14.0",
         "lipo": "arm64",
         "category": "1.26.60.x"
     },
     {
         "version": "1.26.70.20",
         "id": 0,
-        "requiredOS": "13.0",
+        "requiredOS": "14.0",
         "lipo": "arm64",
         "category": "1.26.70.x"
     }

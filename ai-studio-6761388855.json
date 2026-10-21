@@ -1,0 +1,16 @@
+[
+    {
+        "version": "1.519.0",
+        "id": 883943496,
+        "requiredOS": "18.0",
+        "lipo": "arm64",
+        "category": "1.5xx.x"
+    },
+    {
+        "version": "1.520.0",
+        "id": 885987684,
+        "requiredOS": "18.0",
+        "lipo": "arm64",
+        "category": "1.5xx.x"
+    }
+]
