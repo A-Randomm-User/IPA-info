@@ -1,0 +1,9 @@
+[
+    {
+        "version": "3.8.3",
+        "id": 593732652,
+        "requiredOS": "13.0",
+        "lipo": "arm64",
+        "category": "3.8"
+    }
+]

@@ -1,0 +1,478 @@
+[
+    {
+        "version": "1.0",
+        "id": 2435471,
+        "requiredOS": "3.2",
+        "lipo": "armv7",
+        "category": "1.0"
+    },
+    {
+        "version": "1.1",
+        "id": 2623813,
+        "requiredOS": "3.2",
+        "lipo": "armv7",
+        "category": "1.0"
+    },
+    {
+        "version": "1.2",
+        "id": 3157840,
+        "requiredOS": "3.2",
+        "lipo": "armv7",
+        "category": "1.0"
+    },
+    {
+        "version": "1.3",
+        "id": 2623813,
+        "requiredOS": "4.2",
+        "lipo": "armv7",
+        "category": "1.0"
+    },
+    {
+        "version": "1.3.1",
+        "id": 3335139,
+        "requiredOS": "4.2",
+        "lipo": "armv7",
+        "category": "1.0"
+    },
+    {
+        "version": "1.3.2",
+        "id": 3464340,
+        "requiredOS": "4.2",
+        "lipo": "armv7",
+        "category": "1.0"
+    },
+    {
+        "version": "1.4",
+        "id": 3762445,
+        "requiredOS": "4.2.8",
+        "lipo": "armv7",
+        "category": "1.0"
+    },
+    {
+        "version": "1.5",
+        "id": 4357398,
+        "requiredOS": "5.0",
+        "lipo": "armv7",
+        "category": "1.0"
+    },
+    {
+        "version": "1.6",
+        "id": 6831163,
+        "requiredOS": "5.1",
+        "lipo": "armv7",
+        "category": "1.0"
+    },
+    {
+        "version": "1.6.1",
+        "id": 9505602,
+        "requiredOS": "5.1",
+        "lipo": "armv7",
+        "category": "1.0"
+    },
+    {
+        "version": "1.6.2",
+        "id": 10690849,
+        "requiredOS": "5.1",
+        "lipo": "armv7",
+        "category": "1.0"
+    },
+    {
+        "version": "1.7",
+        "id": 11982512,
+        "requiredOS": "5.1",
+        "lipo": "armv7",
+        "category": "1.0"
+    },
+    {
+        "version": "1.7.1",
+        "id": 12875109,
+        "requiredOS": "5.1",
+        "lipo": "armv7",
+        "category": "1.0"
+    },
+    {
+        "version": "1.7.2",
+        "id": 14498877,
+        "requiredOS": "5.1",
+        "lipo": "armv7",
+        "category": "1.0"
+    },
+    {
+        "version": "2.0",
+        "id": 82284430,
+        "requiredOS": "7.0",
+        "lipo": "armv7_arm64",
+        "category": "2.0"
+    },
+    {
+        "version": "2.0.1",
+        "id": 151482634,
+        "requiredOS": "7.0",
+        "lipo": "armv7_arm64",
+        "category": "2.0"
+    },
+    {
+        "version": "2.1",
+        "id": 289042882,
+        "requiredOS": "7.0",
+        "lipo": "armv7_arm64",
+        "category": "2.0"
+    },
+    {
+        "version": "2.1",
+        "id": 331242695,
+        "requiredOS": "7.0",
+        "lipo": "armv7_arm64",
+        "category": "2.0"
+    },
+    {
+        "version": "2.2",
+        "id": 458872635,
+        "requiredOS": "7.0",
+        "lipo": "armv7_arm64",
+        "category": "2.0"
+    },
+    {
+        "version": "2.2",
+        "id": 503642632,
+        "requiredOS": "7.0",
+        "lipo": "armv7_arm64",
+        "category": "2.0"
+    },
+    {
+        "version": "2.2.1",
+        "id": 556294749,
+        "requiredOS": "7.0",
+        "lipo": "armv7_arm64",
+        "category": "2.0"
+    },
+    {
+        "version": "2.2.2",
+        "id": 662933453,
+        "requiredOS": "7.0",
+        "lipo": "armv7_arm64",
+        "category": "2.0"
+    },
+    {
+        "version": "2.4.2",
+        "id": 690962660,
+        "requiredOS": "8.0",
+        "lipo": "armv7_arm64",
+        "category": "2.0"
+    },
+    {
+        "version": "2.5",
+        "id": 715332671,
+        "requiredOS": "8.0",
+        "lipo": "armv7_arm64",
+        "category": "2.0"
+    },
+    {
+        "version": "2.5.1",
+        "id": 763753088,
+        "requiredOS": "8.0",
+        "lipo": "armv7_arm64",
+        "category": "2.0"
+    },
+    {
+        "version": "2.5.2",
+        "id": 811381680,
+        "requiredOS": "8.0",
+        "lipo": "armv7_arm64",
+        "category": "2.0"
+    },
+    {
+        "version": "2.5.3",
+        "id": 812007750,
+        "requiredOS": "8.0",
+        "lipo": "armv7_arm64",
+        "category": "2.0"
+    },
+    {
+        "version": "2.5.4",
+        "id": 812403265,
+        "requiredOS": "8.0",
+        "lipo": "armv7_arm64",
+        "category": "2.0"
+    },
+    {
+        "version": "2.5.5",
+        "id": 813292421,
+        "requiredOS": "8.0",
+        "lipo": "armv7_arm64",
+        "category": "2.0"
+    },
+    {
+        "version": "2.6",
+        "id": 813450575,
+        "requiredOS": "8.4",
+        "lipo": "armv7_arm64",
+        "category": "2.0"
+    },
+    {
+        "version": "2.6",
+        "id": 813609008,
+        "requiredOS": "8.4",
+        "lipo": "armv7_arm64",
+        "category": "2.0"
+    },
+    {
+        "version": "2.6",
+        "id": 813614014,
+        "requiredOS": "8.4",
+        "lipo": "armv7_arm64",
+        "category": "2.0"
+    },
+    {
+        "version": "2.6",
+        "id": 813631073,
+        "requiredOS": "8.4",
+        "lipo": "armv7_arm64",
+        "category": "2.0"
+    },
+    {
+        "version": "2.6",
+        "id": 813636019,
+        "requiredOS": "8.4",
+        "lipo": "armv7_arm64",
+        "category": "2.0"
+    },
+    {
+        "version": "2.6",
+        "id": 813639755,
+        "requiredOS": "8.4",
+        "lipo": "armv7_arm64",
+        "category": "2.0"
+    },
+    {
+        "version": "2.6.1",
+        "id": 814208560,
+        "requiredOS": "8.4",
+        "lipo": "armv7_arm64",
+        "category": "2.0"
+    },
+    {
+        "version": "2.6.1",
+        "id": 814279923,
+        "requiredOS": "8.4",
+        "lipo": "armv7_arm64",
+        "category": "2.0"
+    },
+    {
+        "version": "2.6.1",
+        "id": 814286757,
+        "requiredOS": "8.4",
+        "lipo": "armv7_arm64",
+        "category": "2.0"
+    },
+    {
+        "version": "2.6.2",
+        "id": 816483137,
+        "requiredOS": "8.4",
+        "lipo": "armv7_arm64",
+        "category": "2.0"
+    },
+    {
+        "version": "3.0",
+        "id": 817525020,
+        "requiredOS": "10.0",
+        "lipo": "armv7_arm64",
+        "category": "3.0"
+    },
+    {
+        "version": "3.0.5",
+        "id": 818910391,
+        "requiredOS": "10.0",
+        "lipo": "armv7_arm64",
+        "category": "3.0"
+    },
+    {
+        "version": "3.1",
+        "id": 819518038,
+        "requiredOS": "10.0",
+        "lipo": "armv7_arm64",
+        "category": "3.0"
+    },
+    {
+        "version": "3.1.1",
+        "id": 821515959,
+        "requiredOS": "10.0",
+        "lipo": "armv7_arm64",
+        "category": "3.0"
+    },
+    {
+        "version": "3.2",
+        "id": 821907048,
+        "requiredOS": "10.0",
+        "lipo": "armv7_arm64",
+        "category": "3.0"
+    },
+    {
+        "version": "3.3",
+        "id": 822541157,
+        "requiredOS": "11.0",
+        "lipo": "arm64",
+        "category": "3.0"
+    },
+    {
+        "version": "3.3.1",
+        "id": 823762842,
+        "requiredOS": "11.0",
+        "lipo": "arm64",
+        "category": "3.0"
+    },
+    {
+        "version": "4.0",
+        "id": 824354585,
+        "requiredOS": "11.0",
+        "lipo": "arm64",
+        "category": "4.0"
+    },
+    {
+        "version": "4.0.1",
+        "id": 826468291,
+        "requiredOS": "11.0",
+        "lipo": "arm64",
+        "category": "4.0"
+    },
+    {
+        "version": "4.1",
+        "id": 826916745,
+        "requiredOS": "11.0",
+        "lipo": "arm64",
+        "category": "4.0"
+    },
+    {
+        "version": "4.2",
+        "id": 827552225,
+        "requiredOS": "11.0",
+        "lipo": "arm64",
+        "category": "4.0"
+    },
+    {
+        "version": "4.3",
+        "id": 828625615,
+        "requiredOS": "11.0",
+        "lipo": "arm64",
+        "category": "4.0"
+    },
+    {
+        "version": "4.3",
+        "id": 829165944,
+        "requiredOS": "11.0",
+        "lipo": "arm64",
+        "category": "4.0"
+    },
+    {
+        "version": "5.0",
+        "id": 829215548,
+        "requiredOS": "11.0",
+        "lipo": "arm64",
+        "category": "5.0"
+    },
+    {
+        "version": "5.0.1",
+        "id": 830786356,
+        "requiredOS": "11.0",
+        "lipo": "arm64",
+        "category": "5.0"
+    },
+    {
+        "version": "5.0.2",
+        "id": 830922794,
+        "requiredOS": "11.0",
+        "lipo": "arm64",
+        "category": "5.0"
+    },
+    {
+        "version": "5.1",
+        "id": 831242347,
+        "requiredOS": "11.0",
+        "lipo": "arm64",
+        "category": "5.0"
+    },
+    {
+        "version": "5.2",
+        "id": 831794041,
+        "requiredOS": "12.0",
+        "lipo": "arm64",
+        "category": "5.0"
+    },
+    {
+        "version": "5.2.1",
+        "id": 832990878,
+        "requiredOS": "12.0",
+        "lipo": "arm64",
+        "category": "5.0"
+    },
+    {
+        "version": "10.0",
+        "id": 833618409,
+        "requiredOS": "12.0",
+        "lipo": "arm64",
+        "category": "10.0"
+    },
+    {
+        "version": "10.0",
+        "id": 835354004,
+        "requiredOS": "12.0",
+        "lipo": "arm64",
+        "category": "10.0"
+    },
+    {
+        "version": "10.2",
+        "id": 836782217,
+        "requiredOS": "13.1",
+        "lipo": "arm64",
+        "category": "10.0"
+    },
+    {
+        "version": "10.3.5",
+        "id": 837910166,
+        "requiredOS": "13.1",
+        "lipo": "arm64",
+        "category": "10.0"
+    },
+    {
+        "version": "10.3.9",
+        "id": 839234789,
+        "requiredOS": "13.1",
+        "lipo": "arm64",
+        "category": "10.0"
+    },
+    {
+        "version": "11.0",
+        "id": 840045796,
+        "requiredOS": "13.1",
+        "lipo": "arm64",
+        "category": "11.0"
+    },
+    {
+        "version": "11.1",
+        "id": 841030083,
+        "requiredOS": "13.1",
+        "lipo": "arm64",
+        "category": "11.0"
+    },
+    {
+        "version": "11.2",
+        "id": 842469680,
+        "requiredOS": "14.0",
+        "lipo": "arm64",
+        "category": "11.0"
+    },
+    {
+        "version": "11.2",
+        "id": 844772653,
+        "requiredOS": "14.0",
+        "lipo": "arm64",
+        "category": "11.0"
+    },
+    {
+        "version": "12.0",
+        "id": 844362699,
+        "requiredOS": "14.0",
+        "lipo": "arm64",
+        "category": "12.0"
+    }
+]
