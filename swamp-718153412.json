@@ -1,0 +1,135 @@
+[
+    {
+        "version": "1.0",
+        "id": 70172760,
+        "requiredOS": "6.0",
+        "lipo": "armv7",
+        "category": "1.x"
+    },
+    {
+        "version": "1.1",
+        "id": 444622658,
+        "requiredOS": "6.0",
+        "lipo": "armv7",
+        "category": "1.x"
+    },
+    {
+        "version": "1.2",
+        "id": 524402635,
+        "requiredOS": "6.0",
+        "lipo": "armv7",
+        "category": "1.x"
+    },
+    {
+        "version": "1.3",
+        "id": 613833805,
+        "requiredOS": "6.0",
+        "lipo": "armv7",
+        "category": "1.x"
+    },
+    {
+        "version": "1.4",
+        "id": 643972962,
+        "requiredOS": "6.0",
+        "lipo": "armv7",
+        "category": "1.x"
+    },
+    {
+        "version": "1.5",
+        "id": 718353320,
+        "requiredOS": "6.0",
+        "lipo": "armv7",
+        "category": "1.x"
+    },
+    {
+        "version": "1.7",
+        "id": 811524402,
+        "requiredOS": "6.0",
+        "lipo": "armv7",
+        "category": "1.x"
+    },
+    {
+        "version": "1.8",
+        "id": 811980233,
+        "requiredOS": "6.0",
+        "lipo": "armv7",
+        "category": "1.x"
+    },
+    {
+        "version": "1.9",
+        "id": 812437083,
+        "requiredOS": "6.0",
+        "lipo": "armv7",
+        "category": "1.x"
+    },
+    {
+        "version": "2.0",
+        "id": 813024424,
+        "requiredOS": "6.0",
+        "lipo": "armv7_arm64",
+        "category": "2.x"
+    },
+    {
+        "version": "2.1",
+        "id": 814870103,
+        "requiredOS": "6.0",
+        "lipo": "armv7_arm64",
+        "category": "2.x"
+    },
+    {
+        "version": "2.1",
+        "id": 815235623,
+        "requiredOS": "6.0",
+        "lipo": "armv7_arm64",
+        "category": "2.x"
+    },
+    {
+        "version": "2.1",
+        "id": 815284305,
+        "requiredOS": "6.0",
+        "lipo": "armv7_arm64",
+        "category": "2.x"
+    },
+    {
+        "version": "2.1",
+        "id": 815442959,
+        "requiredOS": "6.0",
+        "lipo": "armv7_arm64",
+        "category": "2.x"
+    },
+    {
+        "version": "2.1.1",
+        "id": 817115053,
+        "requiredOS": "6.0",
+        "lipo": "armv7_arm64",
+        "category": "2.x"
+    },
+    {
+        "version": "2.1.3",
+        "id": 818805608,
+        "requiredOS": "6.0",
+        "lipo": "armv7_arm64",
+        "category": "2.x"
+    },
+    {
+        "version": "2.1.5",
+        "id": 819473859,
+        "requiredOS": "6.0",
+        "lipo": "armv7_arm64",
+        "category": "2.x"
+    },
+    {
+        "version": "2.1.6",
+        "id": 819609760,
+        "requiredOS": "7.0",
+        "lipo": "armv7_arm64",
+        "category": "2.x"
+    },
+    {
+        "version": "2.1.6",
+        "id": 822428171,
+        "requiredOS": "7.0",
+        "lipo": "armv7_arm64",
+        "category": "2.x"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "version": "670020",
+        "id": 882649645,
+        "requiredOS": "18.0",
+        "lipo": "arm64",
+        "category": "600000"
+    },
+    {
+        "version": "670050",
+        "id": 884205290,
+        "requiredOS": "18.0",
+        "lipo": "arm64",
+        "category": "600000"
+    },
+    {
+        "version": "680000",
+        "id": 885348475,
+        "requiredOS": "18.0",
+        "lipo": "arm64",
+        "category": "600000"
+    },
+    {
+        "version": "690000",
+        "id": 888582601,
+        "requiredOS": "18.0",
+        "lipo": "arm64",
+        "category": "600000"
+    }
+]
